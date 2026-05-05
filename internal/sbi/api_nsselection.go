@@ -5,9 +5,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/free5gc/nssf/internal/logger"
-	"github.com/free5gc/nssf/internal/sbi/processor"
-	"github.com/free5gc/nssf/internal/util"
+	"github.com/f0lkert/nssf/internal/logger"
+	"github.com/f0lkert/nssf/internal/sbi/processor"
+	"github.com/f0lkert/nssf/internal/util"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/util/metrics/sbi"
 )

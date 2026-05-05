@@ -12,8 +12,8 @@ import (
 	"strings"
 	"time"
 
-	nssf_context "github.com/free5gc/nssf/internal/context"
-	"github.com/free5gc/nssf/internal/logger"
+	nssf_context "github.com/f0lkert/nssf/internal/context"
+	"github.com/f0lkert/nssf/internal/logger"
 	"github.com/free5gc/openapi"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/openapi/nrf/NFManagement"

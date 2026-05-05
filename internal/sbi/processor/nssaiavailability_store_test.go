@@ -10,10 +10,10 @@ import (
 	"github.com/gin-gonic/gin"
 	"go.uber.org/mock/gomock"
 
-	"github.com/free5gc/nssf/internal/sbi/processor"
-	"github.com/free5gc/nssf/internal/util"
-	"github.com/free5gc/nssf/pkg/app"
-	"github.com/free5gc/nssf/pkg/factory"
+	"github.com/f0lkert/nssf/internal/sbi/processor"
+	"github.com/f0lkert/nssf/internal/util"
+	"github.com/f0lkert/nssf/pkg/app"
+	"github.com/f0lkert/nssf/pkg/factory"
 	"github.com/free5gc/openapi/models"
 )
 

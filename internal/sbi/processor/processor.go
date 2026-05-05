@@ -1,7 +1,7 @@
 package processor
 
 import (
-	"github.com/free5gc/nssf/pkg/app"
+	"github.com/f0lkert/nssf/pkg/app"
 )
 
 type Processor struct {

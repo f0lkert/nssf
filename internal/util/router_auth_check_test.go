@@ -9,7 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
 
-	"github.com/free5gc/nssf/internal/util"
+	"github.com/f0lkert/nssf/internal/util"
 	"github.com/free5gc/openapi/models"
 )
 

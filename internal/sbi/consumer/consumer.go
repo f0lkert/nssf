@@ -1,7 +1,7 @@
 package consumer
 
 import (
-	"github.com/free5gc/nssf/pkg/app"
+	"github.com/f0lkert/nssf/pkg/app"
 	"github.com/free5gc/openapi/nrf/NFManagement"
 	sbi_metrics "github.com/free5gc/util/metrics/sbi"
 )

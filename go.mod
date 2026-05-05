@@ -1,4 +1,4 @@
-module github.com/free5gc/nssf
+module github.com/f0lkert/nssf
 
 go 1.25.5
 

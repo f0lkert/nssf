@@ -16,10 +16,10 @@ import (
 	jsonpatch "github.com/evanphx/json-patch"
 	"github.com/gin-gonic/gin"
 
-	"github.com/free5gc/nssf/internal/logger"
-	"github.com/free5gc/nssf/internal/plugin"
-	"github.com/free5gc/nssf/internal/util"
-	"github.com/free5gc/nssf/pkg/factory"
+	"github.com/f0lkert/nssf/internal/logger"
+	"github.com/f0lkert/nssf/internal/plugin"
+	"github.com/f0lkert/nssf/internal/util"
+	"github.com/f0lkert/nssf/pkg/factory"
 	"github.com/free5gc/openapi/models"
 	"github.com/free5gc/util/metrics/sbi"
 )
