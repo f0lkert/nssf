@@ -19,7 +19,7 @@ import (
 	"github.com/f0lkert/nssf/internal/logger"
 	"github.com/f0lkert/nssf/pkg/factory"
 	"github.com/free5gc/openapi/models"
-	"github.com/free5gc/openapi/oauth"
+	"github.com/f0lkert/free5gc-fixup/oauth"
 )
 
 const NRF_PORT = 29510
